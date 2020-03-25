@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+"""
+Program to order a json file with list collumn
+
+"""
+
 import os.path
 import pandas as pd
 
